@@ -693,7 +693,7 @@ color: white;
 @media (max-width: 800px){
 
     body{
-        overflow-x: scroll;
+        overflow-x: hidden;
     }
     
 nav{
