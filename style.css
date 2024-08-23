@@ -787,7 +787,7 @@ nav img{
     font-family: Roboto;
     font-size: 22px;
    width: 100%;
-   font-weight: 100;
+   font-weight: 500;
    line-height: 50px;
    /* text-align: justify; */
 }
@@ -1022,7 +1022,6 @@ text-align: center;
 
 footer{
     width: 100%;
-    background: #121110;
     height: 323px;
     display: flex;
     /* padding: 30px; */
