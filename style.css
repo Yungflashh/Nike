@@ -104,7 +104,7 @@ nav{
     line-height: 74.1px;
     text-align: left;
     font-family: Oswald;
-    margin-left: 20px;
+    /* margin-left: 20px; */
 
         span{
             background: rgb(69, 69, 183);
@@ -808,7 +808,7 @@ nav img{
     /* overflow-x: scroll; */
     flex-direction: column;
     /* border: 2px solid blue; */
-    margin-left:20px;
+    /* margin-left:20px; */
     width: 100%;
 }
 
@@ -893,7 +893,7 @@ margin: 35px 20px 10px 10px
     flex-direction: column-reverse;
     text-align: center;
     /* border: 3px solid yellow; */
-    margin-left: 20px;
+    /* margin-left: 20px; */
     width: 100%;
 }
 
@@ -976,7 +976,7 @@ margin-bottom: 5px;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    margin-left: 20px;
+    /* margin-left: 20px; */
 }
 
 
